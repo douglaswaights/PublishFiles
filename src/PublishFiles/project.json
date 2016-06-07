@@ -26,7 +26,7 @@
       "web.config"
     ],
     "mappings": {
-      "dest/extrafiles/": "../../extrafiles/"
+      "dummy/extrafiles/": "../../extrafiles/"
     }
   },
 
